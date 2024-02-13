@@ -5,6 +5,15 @@
     margin-bottom: 10px;
 }
 
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navbar .nav-heading{
+    font-family: cursive;
+}
+
 header {
     background-color: #556B2F;
     color: white;
