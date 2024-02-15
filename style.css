@@ -38,7 +38,6 @@ header h1{
 
 .ulist{
     display: flex;
-    
     list-style-type: none;
     margin: 3px;
     padding: 0px;
@@ -47,8 +46,6 @@ header h1{
 }
 
 .ulist li{
-    /* display: inline; */
-    float: left;
     margin: 0px;
     padding: 0px;
 }
